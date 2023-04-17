@@ -1,0 +1,24 @@
+Kullan�c�n�n ad� bilal i��en
+Kullan�c�n�n ya��, kilosu ve boyu 21,88.0,1.78
+Kullan�c�n�n v�cut kitle indeksi 27.8
+V�cut kitle indeksinin de�er aral���Fazla Kilolusunuz
+Kullan�c�n�n kay�t tarihiMon Apr 17 16:22:31 2023
+********************
+Kullan�c�n�n ad� bilal i��en
+Kullan�c�n�n ya��, kilosu ve boyu 21,88.0,1.78
+Kullan�c�n�n v�cut kitle indeksi 27.8
+V�cut kitle indeksinin de�er aral���Fazla Kilolusunuz
+Kullan�c�n�n kay�t tarihiMon Apr 17 16:23:12 2023
+********************
+Kullan�c�n�n ad� ahmet
+Kullan�c�n�n ya��, kilosu ve boyu 26,50.0,1.9
+Kullan�c�n�n v�cut kitle indeksi 13.9
+V�cut kitle indeksinin de�er aral���Zay�fs�n�z
+Kullan�c�n�n kay�t tarihiMon Apr 17 16:23:29 2023
+********************
+Kullan�c�n�n ad� as
+Kullan�c�n�n ya��, kilosu ve boyu 54,45.0,178.0
+Kullan�c�n�n v�cut kitle indeksi 0.0
+V�cut kitle indeksinin de�er aral���None
+Kullan�c�n�n kay�t tarihiMon Apr 17 16:24:17 2023
+********************
